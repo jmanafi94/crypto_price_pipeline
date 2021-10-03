@@ -29,7 +29,7 @@ def upload_file():
 
 
 def extract_data():
-    #API request, no key is needed
+    #API url, no key is needed
     url = "https://api.coincap.io/v2/assets"
     
     try:
